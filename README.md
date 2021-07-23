@@ -10,4 +10,4 @@ Me puedes contactar a mi correo za18011057@zapopan.tecmm.edu.mx, o a través de 
 
 
 Proyectos que estoy realizando:
-- [] Persefone: Página web con blog de compra venta de plantas de Jalisco
+- Repositorio privado ;)
