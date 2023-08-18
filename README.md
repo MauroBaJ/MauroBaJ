@@ -1,7 +1,7 @@
 # Mauricio Basurto
 ## Estudiante de Ingeniería en Sistemas Computacionales
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Hola! Me llamo Mauricio Basurto. Actualmente soy un ingeniero en sistemas computacionales en el Tecnológico José Mario Molina Pasquel y Henríquez (TecMM) Campus Zapopan.
 Tengo interés en el desarrollo web, y actualmente estoy aprendiendo PHP, y tengo en mi bucketlist aprender JavaScript junto a su framework React.
